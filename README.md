@@ -3,10 +3,10 @@ Welcome to my repository containing Machine Learning (ML) and Deep Learning (DL)
 
 ## Projects
 
-1. **Project Name 1**
+1. **Image Classification Using LeNet(CNN)**
    - Description: Brief description of the project.
    - Technologies: List of technologies and libraries used.
-   - Link to Project Folder: [Project 1 Folder](/project1)
+   - Link to Project Folder:https://github.com/pranaymahawar/Projects_IITB-25/tree/d247e79da4c180ec3c9df7d77f8b3e75331855f8/Image%20Classification%20Using%20LeNet(CNN)
 
 2. **Project Name 2**
    - Description: Brief description of the project.
