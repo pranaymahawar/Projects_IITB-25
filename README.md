@@ -47,3 +47,5 @@ The images are preprocessed by converting them to tensors and normalizing their 
 This project is licensed under the MIT License.
 
 This README file should provide a clear overview of the project, its dependencies, installation, usage, results, and model architecture.
+
+
