@@ -1,51 +1,47 @@
-## LeNet on MNIST with PyTorch
 
-This project implements the LeNet architecture using PyTorch for the MNIST dataset. LeNet is a classic convolutional neural network (CNN) designed for handwritten digit recognition. The code includes the model definition, data transformations, training loop, and testing loop.
+Welcome to my repository containing Machine Learning (ML) and Deep Learning (DL) projects done at the Indian Institute of Technology Bombay (IIT Bombay). This repository showcases my academic and personal projects related to ML and DL. Feel free to explore the projects and their associated documentation.
 
-## Dependencies
+## Projects
 
-- PyTorch
-- torchvision
+1. **Project Name 1**
+   - Description: Brief description of the project.
+   - Technologies: List of technologies and libraries used.
+   - Link to Project Folder: [Project 1 Folder](/project1)
 
-## Installation
+2. **Project Name 2**
+   - Description: Brief description of the project.
+   - Technologies: List of technologies and libraries used.
+   - Link to Project Folder: [Project 2 Folder](/project2)
 
-1. Clone this repository.
+<!-- Add more projects as needed -->
 
-2. Install the dependencies using pip.
-```bash
-pip install -r requirements.txt
-```
+## About Me
+I am currently engaged in advanced studies in energy systems, exploring the complexities and innovations in this field. My academic journey at IIT Bombay has equipped me with a solid foundation in engineering principles and a deep understanding of energy-related challenges and solutions.
+This GitHub repository serves as a platform to showcase my projects related to Machine Learning and Deep Learning. Here, you will find a collection of projects that reflect my exploration of AI techniques and methodologies, with a focus on their potential applications in the domain of energy systems.
 
-## Usage
-- Run the training script.
-```bash
-python train.py
-```
-- Run the testing script.
-```bash
-python test.py
-```
-The training script will display the training loss for each epoch. The testing script will display the test accuracy.
+Feel free to explore the projects and their associated documentation. Contributions, suggestions, and feedback are always welcome!
+## Interests in Machine Learning and Deep Learning
 
-## Results
-After 10 epochs of training, the test accuracy of the model is approximately 99%.
+In addition to my core academic pursuits, I am passionate about the application of artificial intelligence (AI) in the field of energy systems. I believe that leveraging machine learning and deep learning techniques can significantly contribute to optimizing energy processes, improving efficiency, and addressing complex challenges in the energy sector.
 
-## Model Architecture
-The model consists of the following layers:
+## Getting Started
 
-Two convolutional layers with 6 and 16 filters, respectively.
-Two max-pooling layers with 2x2 kernel sizes.
-Three fully connected layers with 120, 84, and 10 outputs, respectively.
-The model uses the ReLU activation function for the hidden layers and the Cross Entropy Loss function for training. The model is trained for 10 epochs using the Adam optimizer with a learning rate of 0.001.
+If you want to explore these projects, follow these instructions to get started:
 
-Dataset
-The MNIST dataset is a collection of 60,000 28x28 grayscale images of handwritten digits. There are 10,000 images in the test set and 50,000 images in the training set.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
 
-The images are preprocessed by converting them to tensors and normalizing their pixel values.
+## Contact Information
 
+<<<<<<< HEAD
 ## License
 This project is licensed under the MIT License.
 
 This README file should provide a clear overview of the project, its dependencies, installation, usage, results, and model architecture.
 
 
+=======
+- **Email:** your.email@example.com
+- **LinkedIn:** [Pranay Mahawar on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+>>>>>>> a31513008be62a11cbff758392af082eac95e6e7
