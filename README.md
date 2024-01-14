@@ -33,8 +33,9 @@ If you want to explore these projects, follow these instructions to get started:
    git clone https://github.com/your-username/your-repo.git
 
 ## Contact Information
+- **Email:** your.email@example.com
+- **LinkedIn:** [Pranay Mahawar on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-<<<<<<< HEAD
 ## License
 This project is licensed under the MIT License.
 
@@ -42,6 +43,4 @@ This README file should provide a clear overview of the project, its dependencie
 
 
 =======
-- **Email:** your.email@example.com
-- **LinkedIn:** [Pranay Mahawar on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
->>>>>>> a31513008be62a11cbff758392af082eac95e6e7
+
