@@ -6,12 +6,10 @@ Welcome to my repository containing Machine Learning (ML) and Deep Learning (DL)
 1. **Image Classification Using LeNet(CNN)**
    - Description: This project implements the LeNet architecture using PyTorch for the MNIST dataset. LeNet is a classic convolutional neural network (CNN) designed specifically for handwritten digit 
      recognition. The code encompasses the model definition, data transformations, training loop, and testing loop to create a robust solution for digit classification.
-   - Technologies: PyTorch, torchvision
    - Link to Project Folder:https://github.com/pranaymahawar/Projects_IITB-25/tree/d247e79da4c180ec3c9df7d77f8b3e75331855f8/Image%20Classification%20Using%20LeNet(CNN)
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies and libraries used.
+2. **Credit Risk Analysis**
+   - Description: This project predicts credit risk using machine learning, aiding financial institutions in assessing credit extension risks.
    - Link to Project Folder: [Project 2 Folder](/project2)
 
 <!-- Add more projects as needed -->
