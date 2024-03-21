@@ -7,7 +7,7 @@ Welcome to my repository containing Machine Learning (ML) and Deep Learning (DL)
    - Description: This project implements the LeNet architecture using PyTorch for the MNIST dataset. LeNet is a classic convolutional neural network (CNN) designed specifically for handwritten digit 
      recognition. The code encompasses the model definition, data transformations, training loop, and testing loop to create a robust solution for digit classification.
    - Link to Project Folder:https://github.com/pranaymahawar/Projects_IITB-25/tree/d247e79da4c180ec3c9df7d77f8b3e75331855f8/Image%20Classification%20Using%20LeNet(CNN)
-2. **Dermoscopic Lesion Imaging (Inseption V3)
+2. **Dermoscopic Lesion Imaging (Inseption V3)**
    - Description: This project develops a diagnostic system for dermoscopic lesion imaging, leveraging the InceptionV3 model to address class imbalance and accurately classify skin lesions from a dataset of 
      10,015 images across 7 lesion classes.
    - Link to Project Folder:https://github.com/pranaymahawar/Projects_IITB-25/tree/master/Dermoscopic%20Lesion%20Imaging%20using%20Inception%20V3
