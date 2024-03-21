@@ -63,7 +63,7 @@ for layer in base_model.layers:
 model.compile(optimizer=Adam(), loss='categorical_crossentropy', metrics=['accuracy'])
 
 # Train the model
-model.fit(train_generator, epochs=1)
+model.fit(train_generator, epochs=10)
 
 # Define the directory containing the test images
 test_directory = '/content/drive/MyDrive/data science/Ai Ml wncc/KCDH2024_Test_Input'
