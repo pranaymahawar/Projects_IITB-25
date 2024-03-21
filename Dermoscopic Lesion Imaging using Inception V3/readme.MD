@@ -19,7 +19,7 @@ The dataset used in this project consists of 10,015 skin images with 7 lesion cl
 ## Installation
 
 1. Clone the repository:
-- git clone https://github.com/your-username/dermoscopic-lesion-diagnosis.git
+- git clones https://github.com/pranaymahawar/Projects_IITB-25/tree/master/Dermoscopic%20Lesion%20Imaging%20using%20Inception%20V3.git
 cd dermoscopic-lesion-diagnosis
 
 2. Install the required dependencies:
