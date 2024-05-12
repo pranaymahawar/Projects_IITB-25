@@ -17,12 +17,8 @@ Welcome to my repository containing Machine Learning (ML) and Deep Learning (DL)
      
 
 4. **Fault Detection In Solar PV During ELectroluminescence Test Using Transfer Learning**
-   - This project focuses on developing a robust fault detection system for solar photovoltaic (PV) panels during electroluminescence (EL) testing using transfer 
-     learning techniques. EL testing is a non-         
-     destructive method used to identify defects in PV panels, such as microcracks, delamination, and soldering issues. By leveraging pre-trained convolutional 
-     neural network (CNN) models and customizing them 
-     for the specific task of fault detection in solar PV panels, we aim to create an accurate and reliable defect detection system.
-   - Link to the Project Folder: Fault Detection In Solar PV During Electroluminescence Test using Transfer Learning
+   - DesciptionThis project focuses on developing a robust fault detection system for solar photovoltaic (PV) panels during electroluminescence (EL) testing using transfer learning techniques. EL testing is a non-destructive method used to identify defects in PV panels, such as microcracks, delamination, and soldering issues. By leveraging pre-trained convolutional neural network (CNN) models and customizing them for the specific task of fault detection in solar PV panels, we aim to create an accurate and reliable defect detection system.
+   - Link to the Project Folder:https://github.com/pranaymahawar/Projects_IITB-25/tree/master/Fault%20Detection%20In%20Solar%20PV%20During%20Electroluminescence%20Test%20using%20Transfer%20Learning
 
 ## About Me
 I am currently engaged in advanced studies in energy systems, exploring the complexities and innovations in this field. My academic journey at IIT Bombay has equipped me with a solid foundation in engineering principles and a deep understanding of energy-related challenges and solutions.
