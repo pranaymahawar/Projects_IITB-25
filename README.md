@@ -14,8 +14,9 @@ Welcome to my repository containing Machine Learning (ML) and Deep Learning (DL)
 3. **Credit Risk Analysis**
    - Description: This project predicts credit risk using machine learning, aiding financial institutions in assessing credit extension risks.
    - Link to Project Folder:https://github.com/pranaymahawar/Projects_IITB-25/tree/master/Credit%20Risk%20Analysis
+     
 
-<!-- Add more projects as needed -->
+<4. >
 
 ## About Me
 I am currently engaged in advanced studies in energy systems, exploring the complexities and innovations in this field. My academic journey at IIT Bombay has equipped me with a solid foundation in engineering principles and a deep understanding of energy-related challenges and solutions.
