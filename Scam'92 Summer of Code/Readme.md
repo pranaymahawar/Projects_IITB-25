@@ -35,7 +35,7 @@ Scalability: Considerations for scaling the model to handle large datasets and c
 #### Clone the repository:
 
 `
-git clone https://github.com/your/repository.git`
+git clone https://github.com/pranaymahawar/Projects_IITB-25/tree/master/Scam'92%20Summer%20of%20Code`
 
 #### Install dependencies:
 
