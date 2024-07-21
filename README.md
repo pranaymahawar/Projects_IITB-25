@@ -21,12 +21,5 @@ If you want to explore these projects, follow these instructions to get started:
 ## Contact Information
 - **Email:** pranaymahawar34@gmail.com
 - **LinkedIn:** [Pranay Mahawar on LinkedIn](www.linkedin.com/in/pranay-mahawar-13691316a)
-
-## License
-This project is licensed under the MIT License.
-
-This README file should provide a clear overview of the project, its dependencies, installation, usage, results, and model architecture.
-
-
 =======
 
