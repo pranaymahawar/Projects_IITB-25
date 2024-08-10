@@ -6,9 +6,6 @@ We have to predict the customer's lifetime value and segment the customers based
 ### Introduction:
 The dataset which we are going to use in this problem has taken from the UCI Machine Learning Repository. This is a transactional data set which contains all the actual transactions for a UK-based and registered ecommerce online retail store. The company mainly sells unique all-occasion gifts. This dataset has several features which includes the Invoice Number, Stock Code, Product Description, Product Quantity, Invoice Date, Unit Price, Customer ID, etc.
 
-Before starting with the model, let's first understand what is Customer Lifetime Value.
-
-![Customer Lifetime Value Prediction](https://neilpatel.com/wp-content/uploads/2018/05/facebook-lifetime-value.jpg)
 
 ### Abstract
 
@@ -65,16 +62,3 @@ j) Pickle
 k) Warnings
 6) Streamlit
 
-
-**For Model Hosting & Deployment:** Heroku | Github | Streamlit
-
-*****Miscellaneous:*****
-
-[Midway Report Link](https://github.com/mukulsinghal001/customer-lifetime-prediction-using-python/blob/main/Customer%20Lifetime%20Prediction%20Using%20Probabilistic%20Models%20-%20Midway%20Report.ipynb) | [Attributes TXT File](https://github.com/mukulsinghal001/customer-lifetime-prediction-using-python/blob/main/Online%20Retail%20Dataset%20Attributes%20Info.txt) | [Dataset Link](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II#) | [Baseline Model Results](https://github.com/mukulsinghal001/customer-lifetime-prediction-using-python/blob/main/Predicted%20CLV%20Results.csv)
-
-Final Model is Live Now: https://mukulsinghal001-customer-lifetime-model-de-streamlit-app-t3zaq6.streamlit.app/
-
-
-### Lead Scoring Model Project:
-
-You can also check out my [lead scoring classification prediction model](https://github.com/mukulsinghal001/lead-scoring-model-python) related to marketing analytics as well.
