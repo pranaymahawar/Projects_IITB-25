@@ -23,7 +23,7 @@ dir = os.listdir(path + '/smallNewModelData')
 
 def get_value(filename):
     data_csv = pd.read_csv(path + '/smallNewModelData/' + filename)#, index_col='Time')
-    # 去掉NA 提取数值
+   
     data_csv = data_csv.dropna() 
     dataset = data_csv.values
     dataset = np.array(dataset.astype('float32'))
@@ -45,13 +45,13 @@ def get_pre():
 
 
 
-# 获取时序步长
+
 
 #seq = len(dataset[:,0])
 #time = np.arange(0,seq/10,0.1)
-# 在处理数据是进行标准化，因此训练程序中无需进行标准化
 
-# 获得训练数据
+
+
 
 def get_Data(dataset):
     data_X = dataset[:,1:]
@@ -63,7 +63,7 @@ def get_Data(dataset):
 #print(train_x)
 #pause
 
-# 建立模型
+
 class LSTM_CONV(nn.Module):
     def __init__(self, input_size=INPUT_SIZE, hidden_size=HIDDEN_SIZE, output_size=OUTPUT_SIZE, num_layers=NUM_LAYERS):
         super(LSTM_CONV, self).__init__()
@@ -94,7 +94,7 @@ def rest_time(seconds):
     h, m = divmod(m, 60)
     print ('rest time:', "%02d:%02d:%02d" % (h, m, s))
 
-# 训练
+
 net = LSTM_CONV().cuda()
 criterion = nn.MSELoss()
 optimizer = torch.optim.Adam(net.parameters(), lr = RATE, betas=(0.9, 0.999), eps=1e-08)
