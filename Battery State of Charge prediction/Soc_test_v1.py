@@ -14,8 +14,6 @@ OUTPUT_SIZE = 1
 NUM_LAYERS  = 1
 RATE        = 8e-3
 
-
-# 建立模型
 class LSTM_CONV(nn.Module):
     def __init__(self, input_size=INPUT_SIZE, hidden_size=HIDDEN_SIZE, output_size=OUTPUT_SIZE, num_layers=NUM_LAYERS):
         super(LSTM_CONV, self).__init__()
