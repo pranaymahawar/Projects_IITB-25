@@ -6,7 +6,7 @@ from torch import nn
 from torch.autograd import Variable
 import os
 
-# 获取数据名称列表
+
 path = os.getcwd()
 dir = os.listdir(path + '/modelData')
 datalist = []
@@ -15,14 +15,14 @@ for i in dir:
 
 datalist = sorted(datalist, key=lambda x: int(x[3:5]))
 
-# 标准化
+
 def nor(str):
     max = np.max(str)
     min = np.min(str)
     str = (str - min) / (max - min)
     return str, max, min
 
-# 计算平均值
+
 def create_average(voltage, current, speed, length):
     avgVoltage, avgCurrent, avgSpeed = [], [], []
     for i in range(len(voltage)):
